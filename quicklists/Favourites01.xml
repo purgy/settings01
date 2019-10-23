@@ -1,0 +1,4 @@
+<list display="Favourites01">
+  <action id="Cvs.Add" />
+  <action id="Git.Commit.And.Push.Executor" />
+</list>
