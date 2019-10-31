@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="PyCharm Professional Advertiser" displayType="NONE" shouldLog="false" />
     <notification groupId="Python Compatibility Inspection Advertiser" displayType="NONE" shouldLog="false" />
+    <notification groupId="R Language Support" shouldLog="false" />
   </component>
 </application>
