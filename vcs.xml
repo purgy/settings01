@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/yndx-metrika/logs_api_integration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ageitgey/face_recognition.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\Python" />
