@@ -1,5 +1,24 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorResetFontSize">
+    <mouse-shortcut keystroke="shift control button143" />
+    <mouse-shortcut keystroke="shift control button142" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
 </keymap>
