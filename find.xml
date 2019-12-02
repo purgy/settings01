@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\selenium_chrome_driver_proxy_with_authentication.py [webreg01]'" />
+    <option name="defaultScopeName" value="File '...\selenium_chrome_driver_proxy_with_authentication.py [webreg01]'" />
+    <option name="SEARCH_SCOPE" value="File '...\selenium_chrome_driver_proxy_with_authentication.py [webreg01]'" />
   </component>
 </application>
