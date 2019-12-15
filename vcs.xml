@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/NCAR/sfit-processing-environment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:zorkhax/ld.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\Python" />
